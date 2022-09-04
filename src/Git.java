@@ -5,6 +5,5 @@ public class Git {
         System.out.println("测试一下patch文件");
         System.out.println("测试一下patch文件");
         System.out.println("测试一下patch文件");
-        System.out.println();
     }
 }
